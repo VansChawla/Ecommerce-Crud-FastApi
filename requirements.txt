@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 pydantic[email]
+python-dotenv
 streamlit
 pandas
 requests
