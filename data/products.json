@@ -3498,5 +3498,39 @@
       "website": "https://www.hpworld.in"
     },
     "created_at": "2025-05-31T00:00:00Z"
+  },
+  {
+    "id": "7fb06ac3-8aff-4dfe-83a9-a54a66602396",
+    "sku": "DUMO-CBC-001",
+    "name": "Demo Product",
+    "description": "Auto-generated dummy description for UI creation.",
+    "category": "Mobile",
+    "brand": "Xiaomi",
+    "price": 15000.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 10,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "demo"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dummy.png"
+    ],
+    "dimensions_cm": {
+      "length": 10.0,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "seller": {
+      "id": "b33f18eb-87aa-426f-b0ef-99e75cb87609",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in/"
+    },
+    "created_at": "2026-03-22T06:03:38.033300Z",
+    "final_price": 15000.0,
+    "volume_cm3": 1000.0
   }
 ]
